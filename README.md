@@ -15,3 +15,6 @@ Our core purpose and mission of the standards above is quite simple, helps membe
 
 ## License
 The repository is licensed under the MIT license. Feel free to fork <3.
+
+# 标准内容 
+#3110 Wiki 支持页面内锚点跳转
